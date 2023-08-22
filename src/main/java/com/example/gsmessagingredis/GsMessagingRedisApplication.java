@@ -15,6 +15,7 @@ import org.springframework.data.redis.listener.adapter.MessageListenerAdapter;
 import java.util.Arrays;
 
 @SpringBootApplication
+
 public class GsMessagingRedisApplication {
 
 
